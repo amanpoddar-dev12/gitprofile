@@ -231,11 +231,11 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/amanpoddar-dev12/gitprofile"
+  footer: `Made by <a 
+      class="text-primary" href="https://github.com/amanpoddar-dev12/"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >Aman Poddar</a> ❤️`,
 
   enablePWA: true,
 };
