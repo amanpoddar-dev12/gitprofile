@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['amanpoddar-dev12/gitprofile', 'amanpoddar-dev12/e-commerce'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -65,7 +65,7 @@ const CONFIG = {
     instagram: '',
     reddit: '',
     threads: '',
-    youtube: '', // example: 'pewdiepie'
+    youtube: '', 
     udemy: '',
     dribbble: '',
     behance: '',
@@ -168,7 +168,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'light',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -236,7 +236,6 @@ const CONFIG = {
       target="_blank"
       rel="noreferrer"
     >Aman Poddar</a> ❤️`,
-
   enablePWA: true,
 };
 
